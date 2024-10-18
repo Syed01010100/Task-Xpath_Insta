@@ -6,7 +6,7 @@ Install Selenium and Webdriver
 
 Create Classes
 
-Auto Call Constructor method
+Auto Call Constructor method ( def __init__(self, url) )
 
 Maximize and open URL
 
